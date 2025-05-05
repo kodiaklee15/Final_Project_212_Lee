@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Logs and other junk
+*.log
+*.tmp
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Sensitive info (just in case)
+.env
