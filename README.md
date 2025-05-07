@@ -7,7 +7,7 @@ Cosmic Clash is a 2D space shooter game built with **Pygame**. The game allows p
 - **Spaceship Movement**: The player moves the spaceship by dragging the mouse.
 - **Shooting**: Press the spacebar to shoot lasers at aliens.
 - **Enemies (Aliens)**: Aliens move down the screen, and the player must dodge or destroy them for points.
-- **Goodies**: Collect gold to earn points and shields for protection.
+- **Goodies**: Collect gold to earn points and a special laser when you collect 10 gold and shields for protection.
 - **High Scores**: Track and display top 10 high scores.
 - **Game States**: 
   - **Splash Screen**: Introduction and game instructions.
