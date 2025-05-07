@@ -72,3 +72,5 @@ Make sure you have **Python 3** and **Pygame** installed.
 ---
 
 Enjoy playing **Cosmic Clash** and aim for the highest score!
+
+If you would like to see the original game that I used as my base: see the **Original Dodger** file to compare!
